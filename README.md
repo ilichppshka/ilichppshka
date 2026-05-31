@@ -1,34 +1,11 @@
-# Привет.
+# 💫 About Me:
+Занимаюсь мобильной разработкой и увлекаюсь нейросетями.<br>Основные языки — Swift, Kotlin, Java и C#.<br>Возможно, когда-нибудь появится репо на Rust с написанием своей ОС — пока хз.<br>
 
-### 🥗 Мой Tech-рацион
-Я не люблю спагетти-код и лишние углеводы в архитектуре. Предпочитаю чистый белок (Clean Swift).
 
-* 🍎 **Основное блюдо:** `Swift` — мой главный суперфуд.
-* 🍳 **Любимая кухня:** `Xcode` — место, где я готовлю свои приложения.
-* 🍩 **Читмил (Cheat Meal):** Иногда балуюсь `C#`, когда хочется чего-то вредного, но вкусного.
-* 🤖 **Прошлые привычки:** 2 года сидел на `Android`. Знаю вкус Java/Kotlin, но решил сменить рацион.
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/-Android_Exp-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=IlichPPshka&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false) ![](https://streak-stats.demolab.com/?user=IlichPPshka&theme=shadow_green&hide_border=false) ![](https://github-readme-stats.shion.dev/api/top-langs/?username=IlichPPshka&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🛠 Стек технологий
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![Android](https://img.shields.io/badge/-Android_Exp-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### 🏋️‍♂️ Тренировки
-Сжигаю калории, закрывая ишью и мерджа пулл-реквесты.
-
-<!--
-**ilichppshka/ilichppshka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=IlichPPshka&color=green)](https://visitcount.itsvg.in)
